@@ -1,0 +1,9 @@
+[submodule "HomeSecurityManager"]
+	path = HomeSecurityManager
+	url = https://github.com/YoonSung/HomeSecurityManager.git
+[submodule "Arduino"]
+	path = Arduino
+	url = https://github.com/YoonSung/Arduino.git
+[submodule "openframeworks"]
+	path = openframeworks
+	url = https://github.com/YoonSung/openframeworks.git
